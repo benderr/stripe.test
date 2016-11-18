@@ -1,0 +1,18 @@
+{
+  "urlPort": 80,
+  "servePort": 4008,
+  "minify": false,
+  "debug": true,
+  "freeze": false,
+  "watch": true,
+  "map": true,
+  "livereload": false,
+  "preprocessingFlags": {
+    "COLLECTING_ANALYTICS": false,
+    "SIGNUP": true,
+    "EXCHANGE_CURRENCY": false,
+    "INVITE_FRIEND_FEATURE": false,
+    "COLLECTING_SIGNUP_ANALYTICS": false
+  },
+  "prefix": ""
+}

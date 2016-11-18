@@ -1,0 +1,30 @@
+{
+  "servePort": 80,
+  "liveReloadPort": 4010,
+  "appDir": "./src/app",
+  "destPathName" : "./dist",
+  "tmp": "./.tmp",
+  "debug":true,
+  "minify":false,
+  "minifyCss": false,
+  "freeze": false,
+  "map": true,
+  "cssmap": true,
+  "watch": false,
+  "livereload": false,
+  "url":"http://developer.modulbank.ru:",
+  "minifiedThirdparty": "thirdparty.min.js",
+  "minifiedBower":"bower.min.js",
+  "externalLog": false,
+  "preprocessHtml": false,
+  "themeDir":"./src/app/markup3",
+  "preprocessingFlags": {
+    "SIGNUP": true,
+    "EXCHANGE_CURRENCY": true,
+    "INVITE_FRIEND_FEATURE": true,
+    "COLLECTING_ANALYTICS": true
+  },
+  "zipSrc": true,
+  "ibsecurity": false,
+  "prefix": ""
+}

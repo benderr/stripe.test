@@ -1,0 +1,21 @@
+{
+  "thirdparty": [
+    "./src/app/thirdparty/idle-timer.js",
+    "./src/app/thirdparty/klass.js",
+    "./src/app/thirdparty/angular-social-links/angular-social-links.js",
+    "./src/app/thirdparty/owl.carousel/owl.carousel.js"
+  ],
+  "vendors": [
+    "./node_modules/lodash/index.js",
+    "./node_modules/jquery/dist/jquery.js",
+    "./node_modules/angular/angular.js",
+    "./node_modules/angular-route/angular-route.js",
+    "./node_modules/angular-resource/angular-resource.js",
+    "./node_modules/angular-ui-router/release/angular-ui-router.js",
+    "./node_modules/angular-bootstrap/ui-bootstrap-tpls.js",
+    "./node_modules/angular-sanitize/angular-sanitize.js",
+    "./node_modules/selector/jquery.multiple.select.js",
+    "./node_modules/ng-multi-transclude/src/multi-transclude.js",
+    "./node_modules/ng-infinite-scroll/build/ng-infinite-scroll.js"
+  ]
+}
